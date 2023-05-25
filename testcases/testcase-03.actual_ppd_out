@@ -1,0 +1,185 @@
+
+Main Menu
+        1. Display Items
+        2. Purchase Items
+        3. Save and Exit
+Administrator-Only Menu:
+        4. Add Item
+        5. Remove Item
+        6. Display Coins
+        7. Reset Stock
+        8. Reset Coins
+        9. Abort Program
+
+Select your option (1-9): 
+Purchase Item
+-------------
+Please enter the id of the item you wish to purchase: 
+Item not found! ;-;
+
+Main Menu
+        1. Display Items
+        2. Purchase Items
+        3. Save and Exit
+Administrator-Only Menu:
+        4. Add Item
+        5. Remove Item
+        6. Display Coins
+        7. Reset Stock
+        8. Reset Coins
+        9. Abort Program
+
+Select your option (1-9): 
+Purchase Item
+-------------
+Please enter the id of the item you wish to purchase: 
+Item not found! ;-;
+
+Main Menu
+        1. Display Items
+        2. Purchase Items
+        3. Save and Exit
+Administrator-Only Menu:
+        4. Add Item
+        5. Remove Item
+        6. Display Coins
+        7. Reset Stock
+        8. Reset Coins
+        9. Abort Program
+
+Select your option (1-9): 
+Purchase Item
+-------------
+Please enter the id of the item you wish to purchase: 
+Item not found! ;-;
+
+Main Menu
+        1. Display Items
+        2. Purchase Items
+        3. Save and Exit
+Administrator-Only Menu:
+        4. Add Item
+        5. Remove Item
+        6. Display Coins
+        7. Reset Stock
+        8. Reset Coins
+        9. Abort Program
+
+Select your option (1-9): 
+Purchase Item
+-------------
+Please enter the id of the item you wish to purchase: 
+Item not found! ;-;
+
+Main Menu
+        1. Display Items
+        2. Purchase Items
+        3. Save and Exit
+Administrator-Only Menu:
+        4. Add Item
+        5. Remove Item
+        6. Display Coins
+        7. Reset Stock
+        8. Reset Coins
+        9. Abort Program
+
+Select your option (1-9): 
+Purchase Item
+-------------
+Please enter the id of the item you wish to purchase: 
+Item not found! ;-;
+
+Main Menu
+        1. Display Items
+        2. Purchase Items
+        3. Save and Exit
+Administrator-Only Menu:
+        4. Add Item
+        5. Remove Item
+        6. Display Coins
+        7. Reset Stock
+        8. Reset Coins
+        9. Abort Program
+
+Select your option (1-9): 
+Purchase Item
+-------------
+Please enter the id of the item you wish to purchase: 
+You have selected "Lemon Cheesecake - A delicious, 1/8 size slice of cheesecake". This will cost you $ 4.0.
+Please hand over the money - type in the value of each note/coin in cents.
+Press enter or ctrl-d on a new line to cancel this purchase:
+You still need to give us 400:
+
+Error: $100.00 is not a valid denomination of money. Please try again.
+You still need to give us 400:
+
+Error: $1000.00 is not a valid denomination of money. Please try again.
+You still need to give us 400:
+
+Error: $2.30 is not a valid denomination of money. Please try again.
+You still need to give us 400:
+
+Error: $40.00 is not a valid denomination of money. Please try again.
+You still need to give us 400:
+
+Error: $5.99 is not a valid denomination of money. Please try again.
+You still need to give us 400:
+
+Here is your Lemon Cheesecake
+Here is your change: 
+$1 x 1
+
+Main Menu
+        1. Display Items
+        2. Purchase Items
+        3. Save and Exit
+Administrator-Only Menu:
+        4. Add Item
+        5. Remove Item
+        6. Display Coins
+        7. Reset Stock
+        8. Reset Coins
+        9. Abort Program
+
+Select your option (1-9): 
+Error: menu item selected is not valid.
+
+Main Menu
+        1. Display Items
+        2. Purchase Items
+        3. Save and Exit
+Administrator-Only Menu:
+        4. Add Item
+        5. Remove Item
+        6. Display Coins
+        7. Reset Stock
+        8. Reset Coins
+        9. Abort Program
+
+Select your option (1-9): 
+Coins Summary
+---------------
+Denomination     |     Count
+-----------------------------
+5 Cents           |        20
+10 Cents          |        40
+20 Cents          |         3
+50 Cents          |         5
+1 Dollars         |        29
+2 Dollars         |        20
+5 Dollars         |         0
+10 Dollars        |         3
+
+Main Menu
+        1. Display Items
+        2. Purchase Items
+        3. Save and Exit
+Administrator-Only Menu:
+        4. Add Item
+        5. Remove Item
+        6. Display Coins
+        7. Reset Stock
+        8. Reset Coins
+        9. Abort Program
+
+Select your option (1-9): 
